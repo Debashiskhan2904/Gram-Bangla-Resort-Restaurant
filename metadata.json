@@ -1,0 +1,7 @@
+{
+  "name": "GramBangla Resort",
+  "description": "Authentic rural heritage resort and Bengali dining experience in Bankura, West Bengal featuring room reservations, restaurant menu, nearby attractions guide, gallery, and management portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
