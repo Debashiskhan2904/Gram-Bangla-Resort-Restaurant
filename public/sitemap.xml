@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <!-- Homepage & Resort Overview -->
+  <url>
+    <loc>https://grambanglaresort.com/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://grambanglaresort.com/images/hero.webp</image:loc>
+      <image:title>Gram Bangla Resort Bankura</image:title>
+      <image:caption>Scenic view of Gram Bangla Resort in Bankura, West Bengal</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://grambanglaresort.com/images/swim.webp</image:loc>
+      <image:title>Resort Swimming Pool</image:title>
+      <image:caption>Crystal clean swimming pool for resort guests and families</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://grambanglaresort.com/images/bar.webp</image:loc>
+      <image:title>Rasoi Dining and Lounge Bar</image:title>
+      <image:caption>Authentic multi-cuisine restaurant and evening lounge</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Cottages & Luxury Rooms -->
+  <url>
+    <loc>https://grambanglaresort.com/#rooms</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <!-- Rasoi Dining & Bengali Thalis -->
+  <url>
+    <loc>https://grambanglaresort.com/#dining</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Bankura Sightseeing & Attractions -->
+  <url>
+    <loc>https://grambanglaresort.com/#nearby</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Photo Gallery -->
+  <url>
+    <loc>https://grambanglaresort.com/#gallery</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Contact & Direct Booking Desk -->
+  <url>
+    <loc>https://grambanglaresort.com/#contact</loc>
+    <lastmod>2026-10-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+</urlset>
